@@ -302,7 +302,6 @@ models:
           - stackbit_page_meta
         label: Seo
     singleInstance: true
-    file: ''
   blog_feed_section:
     type: object
     label: Blog Feed Section
