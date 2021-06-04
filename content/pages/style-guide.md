@@ -1,7 +1,7 @@
 ---
 title: Style Guide
 seo:
-  title: Theme Style Guide
+  title: Ruta 639
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
