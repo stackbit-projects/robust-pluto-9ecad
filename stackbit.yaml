@@ -275,7 +275,7 @@ models:
     type: page
     label: Advanced Page
     layout: advanced
-    hideContent: true
+    hideContent: false
     fields:
       - type: string
         name: title
