@@ -107,5 +107,5 @@ seo:
       value: images/starter-preview.png
       relativeUrl: true
 layout: advanced
-title: 'Ruta '
+title: Ruta 639
 ---
