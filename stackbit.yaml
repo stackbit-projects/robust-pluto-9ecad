@@ -273,7 +273,7 @@ models:
         label: Seo
   Ruta 639:
     type: page
-    label: Advanced Page
+    label: Ruta p
     layout: advanced
     hideContent: false
     fields:
