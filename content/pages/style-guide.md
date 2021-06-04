@@ -2,7 +2,9 @@
 title: Style Guide
 seo:
   title: Ruta 639
-  description: A reference for suggested typographic treatment and styles for your content
+  description: >-
+    Sitio dedicado al desarrollo del potencial de todo ser humano, mediante el
+    analizas y estudio aplicacion
   extra:
     - name: 'og:type'
       value: website
