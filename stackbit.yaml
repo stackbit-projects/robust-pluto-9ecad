@@ -271,7 +271,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-  advances:
+  Ruta 639:
     type: page
     label: Advanced Page
     layout: advanced
